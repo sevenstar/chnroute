@@ -3789,6 +3789,8 @@ add list=dpbr-CN address=163.142.0.0/16
 add list=dpbr-CN address=163.177.0.0/16
 add list=dpbr-CN address=163.179.0.0/16
 add list=dpbr-CN address=163.204.0.0/16
+add list=dpbr-CN address=163.223.28.0/23
+add list=dpbr-CN address=163.223.32.0/23
 add list=dpbr-CN address=163.228.0.0/16
 add list=dpbr-CN address=164.52.0.0/17
 add list=dpbr-CN address=166.111.0.0/16
