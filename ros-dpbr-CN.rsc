@@ -1811,6 +1811,7 @@ add list=dpbr-CN address=113.200.0.0/15
 add list=dpbr-CN address=113.204.0.0/14
 add list=dpbr-CN address=113.208.112.0/21
 add list=dpbr-CN address=113.209.128.0/17
+add list=dpbr-CN address=113.213.0.0/18
 add list=dpbr-CN address=113.213.64.0/19
 add list=dpbr-CN address=113.213.96.0/20
 add list=dpbr-CN address=113.214.0.0/15
