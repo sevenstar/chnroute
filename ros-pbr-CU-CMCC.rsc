@@ -2415,8 +2415,7 @@ add dst-address=116.162.0.0/16 action=lookup table=CU
 add dst-address=116.163.0.0/18 action=lookup table=CU
 add dst-address=116.165.0.0/16 action=lookup table=CU
 add dst-address=116.167.0.0/16 action=lookup table=CU
-add dst-address=116.168.0.0/15 action=lookup table=CU
-add dst-address=116.171.0.0/16 action=lookup table=CU
+add dst-address=116.168.0.0/14 action=lookup table=CU
 add dst-address=116.172.64.0/18 action=lookup table=CU
 add dst-address=116.172.128.0/17 action=lookup table=CU
 add dst-address=116.174.0.0/15 action=lookup table=CU
@@ -4284,7 +4283,6 @@ add dst-address=45.135.149.0/24 action=lookup table=CU
 add dst-address=45.147.6.0/24 action=lookup table=CU
 add dst-address=45.151.47.0/24 action=lookup table=CU
 add dst-address=45.157.88.0/24 action=lookup table=CU
-add dst-address=45.197.131.0/24 action=lookup table=CU
 add dst-address=45.202.64.0/22 action=lookup table=CU
 add dst-address=45.202.209.0/24 action=lookup table=CU
 add dst-address=45.202.210.0/23 action=lookup table=CU
@@ -5363,7 +5361,6 @@ add dst-address=124.196.80.0/22 action=lookup table=CU
 add dst-address=124.196.84.0/23 action=lookup table=CU
 add dst-address=124.220.0.0/14 action=lookup table=CU
 add dst-address=124.240.0.0/17 action=lookup table=CU
-add dst-address=124.248.0.0/22 action=lookup table=CU
 add dst-address=124.250.0.0/15 action=lookup table=CU
 add dst-address=125.58.128.0/17 action=lookup table=CU
 add dst-address=125.62.0.0/18 action=lookup table=CU
@@ -5425,8 +5422,7 @@ add dst-address=143.14.49.0/24 action=lookup table=CU
 add dst-address=143.20.147.0/24 action=lookup table=CU
 add dst-address=143.64.0.0/16 action=lookup table=CU
 add dst-address=144.48.180.0/22 action=lookup table=CU
-add dst-address=144.48.184.0/23 action=lookup table=CU
-add dst-address=144.48.186.0/24 action=lookup table=CU
+add dst-address=144.48.184.0/22 action=lookup table=CU
 add dst-address=144.48.252.0/22 action=lookup table=CU
 add dst-address=146.56.192.0/18 action=lookup table=CU
 add dst-address=146.196.112.0/22 action=lookup table=CU
