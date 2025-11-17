@@ -60,7 +60,6 @@ add list=dpbr-CN address=14.204.0.0/15
 add list=dpbr-CN address=14.208.0.0/12
 add list=dpbr-CN address=16.2.142.0/23
 add list=dpbr-CN address=23.133.188.0/24
-add list=dpbr-CN address=23.140.100.0/24
 add list=dpbr-CN address=23.161.8.0/24
 add list=dpbr-CN address=23.236.111.0/24
 add list=dpbr-CN address=27.0.128.0/24
@@ -1086,7 +1085,8 @@ add list=dpbr-CN address=103.81.4.0/22
 add list=dpbr-CN address=103.81.48.0/22
 add list=dpbr-CN address=103.81.123.0/24
 add list=dpbr-CN address=103.81.200.0/22
-add list=dpbr-CN address=103.82.52.0/22
+add list=dpbr-CN address=103.82.53.0/24
+add list=dpbr-CN address=103.82.54.0/23
 add list=dpbr-CN address=103.82.224.0/22
 add list=dpbr-CN address=103.83.44.0/22
 add list=dpbr-CN address=103.83.64.0/22
