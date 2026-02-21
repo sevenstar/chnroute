@@ -5372,6 +5372,7 @@ add dst-address=165.101.122.0/23 action=lookup table=CU
 add dst-address=167.148.46.0/24 action=lookup table=CU
 add dst-address=167.220.244.0/22 action=lookup table=CU
 add dst-address=172.81.192.0/18 action=lookup table=CU
+add dst-address=174.136.239.0/24 action=lookup table=CU
 add dst-address=175.24.0.0/15 action=lookup table=CU
 add dst-address=175.27.0.0/16 action=lookup table=CU
 add dst-address=175.46.0.0/15 action=lookup table=CU
