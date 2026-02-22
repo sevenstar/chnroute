@@ -2980,6 +2980,7 @@ add list=dpbr-CN address=175.188.188.0/22
 add list=dpbr-CN address=175.190.24.0/21
 add list=dpbr-CN address=175.190.126.0/23
 add list=dpbr-CN address=178.219.5.0/24
+add list=dpbr-CN address=178.236.38.0/23
 add list=dpbr-CN address=178.253.239.0/24
 add list=dpbr-CN address=180.76.16.0/20
 add list=dpbr-CN address=180.76.32.0/19
