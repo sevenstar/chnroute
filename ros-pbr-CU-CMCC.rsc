@@ -4445,7 +4445,7 @@ add dst-address=103.71.200.0/23 action=lookup table=CU
 add dst-address=103.71.202.0/24 action=lookup table=CU
 add dst-address=103.71.232.0/22 action=lookup table=CU
 add dst-address=103.72.120.0/22 action=lookup table=CU
-add dst-address=103.73.48.0/24 action=lookup table=CU
+add dst-address=103.73.48.0/23 action=lookup table=CU
 add dst-address=103.74.80.0/22 action=lookup table=CU
 add dst-address=103.75.104.0/22 action=lookup table=CU
 add dst-address=103.75.152.0/22 action=lookup table=CU
