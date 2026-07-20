@@ -4227,7 +4227,6 @@ add dst-address=45.248.108.0/23 action=lookup table=CU
 add dst-address=45.248.110.0/24 action=lookup table=CU
 add dst-address=45.249.212.0/22 action=lookup table=CU
 add dst-address=45.250.152.0/23 action=lookup table=CU
-add dst-address=45.250.186.0/24 action=lookup table=CU
 add dst-address=45.251.120.0/22 action=lookup table=CU
 add dst-address=45.252.48.0/22 action=lookup table=CU
 add dst-address=45.253.96.0/20 action=lookup table=CU
