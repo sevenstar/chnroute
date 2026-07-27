@@ -5593,6 +5593,7 @@ add dst-address=183.84.0.0/19 action=lookup table=CU
 add dst-address=183.91.144.0/20 action=lookup table=CU
 add dst-address=185.39.51.0/24 action=lookup table=CU
 add dst-address=185.116.90.0/24 action=lookup table=CU
+add dst-address=186.241.179.0/24 action=lookup table=CU
 add dst-address=186.241.181.0/24 action=lookup table=CU
 add dst-address=188.131.128.0/17 action=lookup table=CU
 add dst-address=188.220.7.0/24 action=lookup table=CU
