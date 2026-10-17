@@ -2813,6 +2813,7 @@ add list=dpbr-CN address=140.246.0.0/16
 add list=dpbr-CN address=140.249.0.0/16
 add list=dpbr-CN address=140.250.0.0/16
 add list=dpbr-CN address=140.255.0.0/16
+add list=dpbr-CN address=141.11.210.0/24
 add list=dpbr-CN address=141.11.219.0/24
 add list=dpbr-CN address=142.86.252.0/23
 add list=dpbr-CN address=143.20.246.0/24
@@ -4002,6 +4003,7 @@ add list=dpbr-CN address=211.167.224.0/19
 add list=dpbr-CN address=212.64.0.0/17
 add list=dpbr-CN address=212.129.128.0/17
 add list=dpbr-CN address=216.105.166.0/24
+add list=dpbr-CN address=217.217.211.0/24
 add list=dpbr-CN address=218.0.0.0/11
 add list=dpbr-CN address=218.56.0.0/13
 add list=dpbr-CN address=218.64.0.0/11
