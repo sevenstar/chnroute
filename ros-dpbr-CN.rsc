@@ -1382,6 +1382,7 @@ add list=dpbr-CN address=103.193.192.0/22
 add list=dpbr-CN address=103.196.64.0/24
 add list=dpbr-CN address=103.196.88.0/21
 add list=dpbr-CN address=103.197.0.0/22
+add list=dpbr-CN address=103.197.180.0/22
 add list=dpbr-CN address=103.197.228.0/22
 add list=dpbr-CN address=103.198.60.0/22
 add list=dpbr-CN address=103.198.124.0/22
@@ -2589,7 +2590,6 @@ add list=dpbr-CN address=123.4.0.0/14
 add list=dpbr-CN address=123.8.0.0/13
 add list=dpbr-CN address=123.49.192.0/23
 add list=dpbr-CN address=123.49.194.0/24
-add list=dpbr-CN address=123.49.196.0/24
 add list=dpbr-CN address=123.49.231.0/24
 add list=dpbr-CN address=123.49.232.0/24
 add list=dpbr-CN address=123.49.237.0/24
