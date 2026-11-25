@@ -588,7 +588,8 @@ add list=dpbr-CN address=47.246.48.0/23
 add list=dpbr-CN address=47.246.50.0/24
 add list=dpbr-CN address=47.246.57.0/24
 add list=dpbr-CN address=47.246.58.0/24
-add list=dpbr-CN address=47.246.60.0/22
+add list=dpbr-CN address=47.246.60.0/23
+add list=dpbr-CN address=47.246.63.0/24
 add list=dpbr-CN address=47.246.64.0/24
 add list=dpbr-CN address=49.4.0.0/18
 add list=dpbr-CN address=49.4.64.0/19
@@ -2918,7 +2919,7 @@ add list=dpbr-CN address=155.102.50.0/23
 add list=dpbr-CN address=155.102.52.0/22
 add list=dpbr-CN address=155.102.56.0/21
 add list=dpbr-CN address=155.102.64.0/23
-add list=dpbr-CN address=155.102.68.0/23
+add list=dpbr-CN address=155.102.68.0/24
 add list=dpbr-CN address=155.102.70.0/24
 add list=dpbr-CN address=155.102.72.0/21
 add list=dpbr-CN address=155.102.80.0/24
@@ -4072,7 +4073,8 @@ add list=dpbr-CN address=218.240.176.0/20
 add list=dpbr-CN address=218.241.16.0/21
 add list=dpbr-CN address=218.241.24.0/22
 add list=dpbr-CN address=218.241.96.0/20
-add list=dpbr-CN address=218.241.112.0/22
+add list=dpbr-CN address=218.241.113.0/24
+add list=dpbr-CN address=218.241.114.0/23
 add list=dpbr-CN address=218.241.116.0/23
 add list=dpbr-CN address=218.241.118.0/24
 add list=dpbr-CN address=218.241.121.0/24
